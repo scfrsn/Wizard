@@ -1,10 +1,10 @@
 {
   "uuid": "e944c919-7ae9-4737-8033-ac073a1b8a90",
-  "shortName": "SmartStatus",
-  "longName": "SmartStatus",
-  "companyName": "Robert Hesse",
+  "shortName": "Wizard",
+  "longName": "Wizard",
+  "companyName": "Stefen Friesen",
   "versionCode": 1,
-  "versionLabel": "1.0.0",
+  "versionLabel": "1.0",
   "watchapp": {
     "watchface": false
   },
@@ -12,98 +12,79 @@
     "dummy": 0
   },
   "resources": {
-"media": [
-		{
-		"type": "png",
-		"name": "IMAGE_MENU_ICON",
-		"file": "images/app_icon.png",
-		"menuIcon": true
-		},
-	   {
+    "media": [
+      {
+        "type": "raw",
+        "name": "LOCALE_ENGLISH",
+        "file": "locales/locale_english.bin"
+      },
+      {
+        "type": "raw",
+        "name": "LOCALE_FRENCH",
+        "file": "locales/locale_french.bin"
+      },
+      {
+        "type": "raw",
+        "name": "LOCALE_SPANISH",
+        "file": "locales/locale_spanish.bin"
+      },
+      {
+        "type": "raw",
+        "name": "LOCALE_GERMAN",
+        "file": "locales/locale_german.bin"
+      },
+      {
+        "type": "font",
+        "characterRegex": "[:0-9]",
+        "name": "FONT_SQUARE_48",
+        "file": "fonts/square.ttf"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ICON_SIRI",
+        "file": "images/siri.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ICON_REFRESH",
+        "file": "images/refresh.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ICON_ACTIVATOR",
+        "file": "images/activator.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ICON_DISCONNECTED",
+        "file": "images/disconnected.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ICON_PLAY_PAUSE",
+        "file": "images/play_pause.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ICON_NEXT",
+        "file": "images/next.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ICON_PREVIOUS",
+        "file": "images/previous.png"
+      },
+      {
         "type": "png",
         "name": "IMAGE_BACKGROUND",
         "file": "images/background.png"
-        },
-		{
-	        "type": "png",
-	        "name": "IMAGE_DISCONNECT",
-	        "file": "images/disconnect_large.png"
-	    },
-		{
-	        "type": "png",
-	        "name": "IMAGE_SUN",
-	        "file": "images/sun.png"
-	    },
-		{
-	        "type": "png",
-	        "name": "IMAGE_RAIN",
-	        "file": "images/rain.png"
-	    },
-		{
-	        "type": "png",
-	        "name": "IMAGE_CLOUD",
-	        "file": "images/cloud.png"
-	    },
-		{
-	        "type": "png",
-	        "name": "IMAGE_SUN_CLOUD",
-	        "file": "images/sun_cloud.png"
-	    }
-		,
-		{
-	        "type": "png",
-	        "name": "IMAGE_WIND",
-	        "file": "images/wind.png"
-	    }
-		,
-		{
-	        "type": "png",
-	        "name": "IMAGE_FOG",
-	        "file": "images/fog.png"
-	    }	
-		,
-		{
-	        "type": "png",
-	        "name": "IMAGE_SNOW",
-	        "file": "images/snow.png"
-	    }
-		,
-		{
-	        "type": "png",
-	        "name": "IMAGE_THUNDER",
-	        "file": "images/thunder.png"
-	    }	
-		,
-		{
-	        "type": "png",
-	        "name": "IMAGE_BATTERY",
-	        "file": "images/battery.png"
-	    }	
-		,
-		{
-	        "type": "png",
-	        "name": "IMAGE_BATTERY_PHONE",
-	        "file": "images/battery_phone.png"
-	    }	
-		,
-		{
-	        "type": "png",
-	        "name": "IMAGE_BATTERY_PEBBLE",
-	        "file": "images/battery_pebble.png"
-	    }	
-		,
-
-	    {
-        "type": "font",
-        "name": "FONT_ROBOTO_CONDENSED_21",
-        "file": "fonts/Roboto-Condensed.ttf"
-        },
-
-        {
-        "type": "font",
-        "characterRegex": "[:0-9]",
-        "name": "FONT_ROBOTO_BOLD_SUBSET_49",
-        "file": "fonts/Roboto-Bold.ttf"
-        }
-	  ]  }
+      },
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/app_icon.png"
+      }
+    ]
+  }
 }
