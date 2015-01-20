@@ -1,14 +1,33 @@
-SmartStatus Watch App
-=====================
+#Wizard Watch App
 
-The SmartStatus watch app only works in conjunction with the Smartwatch+ app for jailbroken iOS devices. [Smartwatch+](cydia:///package/com.hesze.smartwatchplus) is available through the BigBoss repository in Cydia.
+Based on Robert Hesse's illustrious SmartStatus watch app, Wizard brings an elegant and minimalist design with Siri, media controls, Activator actions, and translations for English, French, German and Spanish
 
-This code provides an example of how to communicate with Smartwatch+ and how to use status information from your iOS device within your own watch face or app. The status information that is currently available to you through Smartwatch+ is
+_Smartwatch+ (Cydia) required. Will **NOT** work with the App Store version._
 
-* Unread email count
-* Unread SMS/iMessage count
-* Missed phone calls
-* iPhone battery percentage
-* Current weather
+![Preview Image](preview.png)
 
-![SmartStatus watchapp](https://raw.github.com/robhh/SmartStatus/master/SmartStatus.jpg)
+####Controls
+
+* Launch Siri: _Press top button_
+* Next Screen: _Press select button_
+* Refresh Data: _Press bottom button_
+* Show Battery Info: _Shake / Tap_
+
+####Media Controls
+
+* Previous Track: _Hold top button_
+* Play / Pause: _Hold select button_
+* Next Track: _Hold bottom button_
+
+####Activator Actions
+
+Double clicking a button will trigger the action assigned to "Press `x` button". Triple clicking a button trigger the action assigned to "Hold `x` button". Activator actions must be configured in the Smartwatch+ app.
+
+####Languages
+
+- [x] English
+- [x] German
+- [ ] French
+- [ ] Spanish
+
+I don’t have plans to translate beyond the languages mentioned above. If you’d like to submit a translation, download _locale_english.json_ to use as a template.
