@@ -21,7 +21,7 @@ _Smartwatch+ (Cydia) required. Will **NOT** work with the App Store version._
 
 ####Activator Actions
 
-Double clicking a button will trigger the action assigned to "Press `x` button". Triple clicking a button trigger the action assigned to "Hold `x` button". Activator actions must be configured in the Smartwatch+ app.
+Double clicking a button will trigger the action assigned to "Press `x` button" in the Activator screen of Smartwatch+. Triple clicking a button will trigger the action assigned to "Hold `x` button". Activator actions must be configured in the Smartwatch+ app.
 
 ####Languages
 
@@ -30,4 +30,4 @@ Double clicking a button will trigger the action assigned to "Press `x` button".
 - [ ] French
 - [ ] Spanish
 
-I don’t have plans to translate beyond the languages mentioned above. If you’d like to submit a translation, download _locale_english.json_ to use as a template.
+I don’t have plans to translate beyond the languages mentioned above. If you’d like to submit a translation, download _resources/locales/locale_english.json_ to use as a template.
