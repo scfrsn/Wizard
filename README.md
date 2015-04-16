@@ -27,7 +27,7 @@ Double clicking a button will trigger the action assigned to "Press `x` button" 
 
 - [x] English
 - [x] German
-- [ ] French
+- [x] French
 - [ ] Spanish
 
 I don’t have plans to translate beyond the languages mentioned above. If you’d like to submit a translation, download _resources/locales/locale_english.json_ to use as a template.
