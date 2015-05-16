@@ -1,20 +1,20 @@
 {
-  "1814510340" : "No Upcoming",
-  "1989922087" : "Appointments",
+  "1814510340" : "Pas de prochaine",
+  "1989922087" : "Rendez-vous",
 
-  "533299929"  : "No Artist",
-  "689122372"  : "No Title",
+  "533299929"  : "Aucun Artiste",
+  "689122372"  : "Aucun Titre",
 
-  "895530719"  : "Waiting for",
-  "528480053"  : "Weather",
+  "895530719"  : "Attendre",
+  "528480053"  : "Temps",
 
-  "389447012"  : "It's Currently",
-  "1374493939" : "Stormy",
-  "221271393"  : "Foggy",
-  "241223952"  : "Windy",
-  "26506090"   : "Snowing",
-  "302440881"  : "Partly Cloud",
-  "366322701"  : "Raining",
-  "425409803"  : "Clear Skies",
-  "738843253"  : "Cloudy"
+  "389447012"  : "Actuellement",
+  "1374493939" : "Orageux",
+  "221271393"  : "Brumeux",
+  "241223952"  : "Venteux",
+  "26506090"   : "Neige",
+  "302440881"  : "Partiellement Nuageux",
+  "366322701"  : "Pluie",
+  "425409803"  : "Clair",
+  "738843253"  : "Nuageux"
 }
