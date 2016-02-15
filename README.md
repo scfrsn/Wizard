@@ -1,6 +1,6 @@
 #Wizard Watch App
 
-[![Build Status](https://travis-ci.org/scfrsn/Wizard.png)](https://travis-ci.org/scfrsn/Wizard)
+[![Build Status](https://travis-ci.org/slfrsn/Wizard.png)](https://travis-ci.org/slfrsn/Wizard)
 
 Based on Robert Hesse's illustrious SmartStatus watch app, Wizard brings an elegant and minimalist design with Siri, media controls, Activator actions, and translations for English, French, German and Spanish
 
