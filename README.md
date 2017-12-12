@@ -1,4 +1,4 @@
-#Wizard Watch App
+# Wizard Watch App
 
 [![Build Status](https://travis-ci.org/slfrsn/Wizard.png)](https://travis-ci.org/slfrsn/Wizard)
 
@@ -8,24 +8,24 @@ _Smartwatch+ (Cydia) required. Will **NOT** work with the App Store version._
 
 ![Preview Image](preview.png)
 
-####Controls
+#### Controls
 
 * Launch Siri: _Press top button_
 * Next Screen: _Press select button_
 * Refresh Data: _Press bottom button_
 * Show Battery Info: _Shake / Tap_
 
-####Media Controls
+#### Media Controls
 
 * Previous Track: _Hold top button_
 * Play / Pause: _Hold select button_
 * Next Track: _Hold bottom button_
 
-####Activator Actions
+#### Activator Actions
 
 Double clicking a button will trigger the action assigned to "Press `x` button" in the Activator screen of Smartwatch+. Triple clicking a button will trigger the action assigned to "Hold `x` button". Activator actions must be configured in the Smartwatch+ app.
 
-####Languages
+#### Languages
 
 - [x] English
 - [x] German
